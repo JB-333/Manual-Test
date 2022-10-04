@@ -1,7 +1,7 @@
 | Test Number | Input | Expected Output | Actual Output | Pass/Fail |
 |---|---|---|---|---|
-|1| 0 | I'm afraid you failed |0|Pass| |
-|2| 20 | I'm afraid you failed | | | |
+|1| 0 | I'm afraid you failed |I'm afraid you failed|Pass| |
+|2| 20 | I'm afraid you failed |I'm afraid you failed|Pass| |
 |3| 39 | I'm afraid you failed | | | |
 |4| 40 | You have been awarded a 3rd class mark | | | |
 |5| 45 | You have been awarded a 3rd class mark | | | |
